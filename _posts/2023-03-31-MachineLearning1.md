@@ -1,10 +1,3 @@
----
-layout: single
-title:  "서울시 구별 CCTV 현황 분석하기"
-categories: MachineLearning
-toc: true
----
-
 ### 1. 실습목표
 1. pandas, matplotlib 사용하기
 2. 서울시 각 구별 CCTV 현황 살펴보기, 인구대기 CCTV 비율이 높은/낮은 지역 알아보기
@@ -3116,41 +3109,3 @@ plt.ylabel("구별")
 ![png](output_42_1.png)
     
 
-
-
-```python
-!pip install pororo
-```
-
-    Collecting pororo
-      Downloading pororo-0.4.2-py3-none-any.whl (256 kB)
-    Collecting transformers>=4.0.0
-      Downloading transformers-4.26.1-py3-none-any.whl (6.3 MB)
-    Collecting pororo
-      Downloading pororo-0.4.1-py3-none-any.whl (253 kB)
-      Downloading pororo-0.4.0-py3-none-any.whl (253 kB)
-      Downloading pororo-0.3.5-py3-none-any.whl (253 kB)
-      Downloading pororo-0.3.4-py3-none-any.whl (216 kB)
-      Downloading pororo-0.3.3-py3-none-any.whl (215 kB)
-      Downloading pororo-0.3.2-py3-none-any.whl (212 kB)
-      Downloading pororo-0.3.1-py3-none-any.whl (211 kB)
-    
-    The conflict is caused by:
-        pororo 0.4.2 depends on torch==1.6.0
-        pororo 0.4.1 depends on torch==1.6.0
-        pororo 0.4.0 depends on torch==1.6.0
-        pororo 0.3.5 depends on torch==1.6.0
-        pororo 0.3.4 depends on torch==1.6.0
-        pororo 0.3.3 depends on torch==1.6.0
-        pororo 0.3.2 depends on torch==1.6.0
-        pororo 0.3.1 depends on torch==1.6.0
-    
-    To fix this you could try to:
-    1. loosen the range of package versions you've specified
-    2. remove package versions to allow pip attempt to solve the dependency conflict
-    
-    
-
-    ERROR: Cannot install pororo==0.3.1, pororo==0.3.2, pororo==0.3.3, pororo==0.3.4, pororo==0.3.5, pororo==0.4.0, pororo==0.4.1 and pororo==0.4.2 because these package versions have conflicting dependencies.
-    ERROR: ResolutionImpossible: for help visit https://pip.pypa.io/en/latest/user_guide/#fixing-conflicting-dependencies
-    
