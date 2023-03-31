@@ -1,3 +1,10 @@
+---
+layout: single
+title:  "Python_Matplotlib"
+categories: kaggle
+toc: true
+---
+
 ```python
 import matplotlib.pyplot as plt
 ```
