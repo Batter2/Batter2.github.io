@@ -1,3 +1,10 @@
+---
+layout: single
+title:  "GradientBoostingClassifier4"
+categories: kaggle
+toc: true
+---
+
 # GradientBoostingClassifier
 
 
