@@ -36,7 +36,7 @@ CCTV_Seoul.head(3)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -112,7 +112,7 @@ CCTV_Seoul
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -381,7 +381,7 @@ pop_Seoul.head(2)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -469,7 +469,7 @@ pop_Seoul.head(3)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -541,7 +541,7 @@ pop_Seoul.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -627,7 +627,7 @@ CCTV_Seoul.info()
      5   2016년      25 non-null     int64 
     dtypes: int64(5), object(1)
     memory usage: 1.3+ KB
-    
+
 
 
 ```python
@@ -648,7 +648,7 @@ pop_Seoul.info()
      4   65세이상고령자수  26 non-null     float64
     dtypes: float64(4), object(1)
     memory usage: 1.2+ KB
-    
+
 
 
 ```python
@@ -756,7 +756,7 @@ pop_Seoul[pop_Seoul.loc[:,"구"].isnull()]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -813,7 +813,7 @@ pop_Seoul.tail(3)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -879,7 +879,7 @@ CCTV_Seoul.sort_values("소계")
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1145,7 +1145,7 @@ CCTV_Seoul.sort_values("소계").tail(5)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1231,7 +1231,7 @@ CCTV_Seoul.sort_values("소계",ascending=False).head(5)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1317,7 +1317,7 @@ CCTV_Seoul.sort_values("소계").head(5)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1403,7 +1403,7 @@ CCTV_Seoul.sort_values("소계",ascending=False).tail(5)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1491,7 +1491,7 @@ pop_Seoul
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1778,7 +1778,7 @@ data_result
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -2195,7 +2195,7 @@ data_result
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -2591,7 +2591,7 @@ data_result.sort_values("인구대비CCTV비율").head(5)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -2708,7 +2708,7 @@ per_sort
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -3087,7 +3087,7 @@ per_sort
 
 
 
-#### 그래프 그리기!!
+#### #그래프 그리기!!
 
 
 ```python
@@ -3112,7 +3112,7 @@ plt.ylabel("구별")
 
 
 
-    
+​    
 ![png](output_42_1.png)
-    
+​    
 
