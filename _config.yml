@@ -110,12 +110,6 @@ author:
   location         : "South Korea"
   email            : "hjy4740s@naver.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hjy4740s@naver.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://https://batter2.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Batter2"
