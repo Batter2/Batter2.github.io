@@ -1,7 +1,9 @@
+---
 layout: single
 title:  "bmi실습"
 categories: MachineLearning
 toc: true
+---
 
 ### 1. 목표
 - 500명의 키와 몸무게, 비만도 라벨을 이용해 비만은 판단하는 모델을 만들어보자
