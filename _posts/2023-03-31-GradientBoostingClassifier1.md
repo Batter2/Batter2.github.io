@@ -1,3 +1,10 @@
+---
+layout: single
+title:  "GradientBoostingClassifier1"
+categories: kaggle
+toc: true
+---
+
 # GradientBoostingClassifier
 - fnlwgt, race, capital-gain, capital-loss, native-country 컬럼 삭제
 
