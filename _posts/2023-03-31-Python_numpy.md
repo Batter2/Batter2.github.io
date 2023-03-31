@@ -1,3 +1,10 @@
+---
+layout: single
+title:  "Python_numpy"
+categories: kaggle
+toc: true
+---
+
 # numpy의 특징
 - 파이썬 자료형인 list와 (비슷한) 형태를 띄고있다.
 - 빠르고 효율적인 산술연산을 제공하는 n차원 배열을 제공한다.
