@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Python_Pandas"
-categories: kaggle
+categories: Python
 toc: true
 ---
 
