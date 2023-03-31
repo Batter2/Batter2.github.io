@@ -1,3 +1,10 @@
+---
+layout: single
+title:  "Python_Pandas"
+categories: kaggle
+toc: true
+---
+
 ```python
 # Pandas 라이브러리 불러오기
 
