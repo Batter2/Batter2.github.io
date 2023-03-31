@@ -1,7 +1,9 @@
+---
 layout: single
 title:  "Linear Model_Regression"
 categories: MachineLearning
 toc: true
+---
 
 ### 성적 데이터 생성
 
