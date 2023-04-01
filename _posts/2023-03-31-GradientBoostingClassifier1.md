@@ -35,7 +35,7 @@ data_train
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -305,7 +305,7 @@ data_test
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -551,7 +551,7 @@ data_train.corr()
 
     C:\Users\hjy47\AppData\Local\Temp\ipykernel_5776\197071326.py:3: FutureWarning: The default value of numeric_only in DataFrame.corr is deprecated. In a future version, it will default to False. Select only valid columns or specify the value of numeric_only to silence this warning.
       data_train.corr()
-    
+
 
 
 
@@ -565,7 +565,7 @@ data_train.corr()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -753,7 +753,7 @@ data_train
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
