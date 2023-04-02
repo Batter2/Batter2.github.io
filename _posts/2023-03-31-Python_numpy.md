@@ -897,12 +897,3 @@ print(np.abs(arr2))
     [1 2 3 4 5]
     
 
-#  Universally 함수
-
-### 단일 배열에 사용하는 함수()
-
-![image.png](attachment:image.png)
-
-### 서로 다른 배열 간에 사용하는 함수
-
-![image.png](attachment:image.png)
