@@ -299,7 +299,7 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![output_19_0](https://user-images.githubusercontent.com/112329594/229342796-420006ed-f944-4119-adb4-9b26f2d6e610.png)
     
 
 
