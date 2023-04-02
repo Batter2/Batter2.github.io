@@ -20,7 +20,7 @@ plt.show() # 그래프 출력
 
 
     
-![png](output_1_0.png)
+![output_1_0](https://user-images.githubusercontent.com/112329594/229341146-ec6461e7-07c9-49c7-be07-39a8f668bac3.png)
     
 
 
@@ -35,7 +35,7 @@ plt.show() # 그래프 출력
 
 
     
-![png](output_2_0.png)
+![output_2_0](https://user-images.githubusercontent.com/112329594/229341275-2a4ec98c-7e21-458b-bcd4-5f302551d938.png)
     
 
 
@@ -50,7 +50,7 @@ plt.show()
 
 
     
-![png](output_3_0.png)
+![output_3_0](https://user-images.githubusercontent.com/112329594/229341290-53343ed4-d952-431a-ba0e-8049d190d59e.png)
     
 
 
@@ -64,7 +64,7 @@ plt.show()
 
 
     
-![png](output_4_0.png)
+![output_4_0](https://user-images.githubusercontent.com/112329594/229341313-5d461b37-b376-47ab-908f-e5ba0e89319d.png)
     
 
 
@@ -78,7 +78,7 @@ plt.show()
 
 
     
-![png](output_5_0.png)
+![output_5_0](https://user-images.githubusercontent.com/112329594/229341323-a7ce3abf-577b-4195-972e-16b379597f32.png)
     
 
 
@@ -92,7 +92,7 @@ plt.show()
 
 
     
-![png](output_6_0.png)
+![output_6_0](https://user-images.githubusercontent.com/112329594/229341328-e9e9f497-a866-4c3e-9f2f-c6fad6fb215f.png)
     
 
 
@@ -107,7 +107,7 @@ plt.show()
 
 
     
-![png](output_7_0.png)
+![output_7_0](https://user-images.githubusercontent.com/112329594/229341337-0455406b-fffc-4c9f-a22f-f189fdcf495b.png)
     
 
 
@@ -127,7 +127,7 @@ plt.show()
 
 
     
-![png](output_9_0.png)
+![output_9_0](https://user-images.githubusercontent.com/112329594/229341343-353f8d8e-c64b-4e70-9276-04e90a5c247f.png)
     
 
 
@@ -142,7 +142,7 @@ plt.show()
 
 
     
-![png](output_10_0.png)
+![output_10_0](https://user-images.githubusercontent.com/112329594/229341349-789776af-feba-4855-8f1f-58285a8e67e1.png)
     
 
 
@@ -163,7 +163,7 @@ plt.show()
 
 
     
-![png](output_11_0.png)
+![output_11_0](https://user-images.githubusercontent.com/112329594/229341355-71a72ff1-fd85-4e64-8b48-28f67f4842fa.png)
     
 
 
@@ -181,7 +181,7 @@ plt.show()
 
 
     
-![png](output_12_0.png)
+![output_12_0](https://user-images.githubusercontent.com/112329594/229341364-e665be8e-3a0b-49ab-b175-901c390219f8.png)
     
 
 
@@ -201,7 +201,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![output_13_0](https://user-images.githubusercontent.com/112329594/229341368-16d330c1-eb88-48b9-b5dc-8077a2b6e875.png)
     
 
 
@@ -226,7 +226,7 @@ plt.show()
 
 
     
-![png](output_14_0.png)
+![output_14_0](https://user-images.githubusercontent.com/112329594/229341376-7fecf013-6424-4bc8-a782-5b4b6cf55e51.png)
     
 
 
@@ -255,7 +255,7 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![output_16_0](https://user-images.githubusercontent.com/112329594/229341382-807c81a3-3684-4ec7-9136-fabda9ca39f4.png)
     
 
 
@@ -1104,6 +1104,6 @@ plt.show()
 
 
     
-![png](output_31_0.png)
+![output_31_0](https://user-images.githubusercontent.com/112329594/229341432-f3660750-25f6-4689-aee3-12901d5e0bfd.png)
     
 
