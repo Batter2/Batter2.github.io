@@ -21,6 +21,7 @@ plt.show() # 그래프 출력
 
     
 ![png](output_1_0.png)
+![output_1_0](https://user-images.githubusercontent.com/112329594/229341146-ec6461e7-07c9-49c7-be07-39a8f668bac3.png)
     
 
 
